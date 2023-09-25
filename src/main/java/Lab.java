@@ -1,7 +1,7 @@
 import java.lang.Math;
 public class Lab {
     /**
-     * The Math class contains utility methods that can be used for calculations like exponents, rounding, random
+     * The Math class  contains utility methods that can be used for calculations like exponents, rounding, random
      * number generation, etc. The point of this challenge, however, is not strictly to use the Math class - there are
      * many "Utility Classes" while follow a curious pattern - where we usually instantiate an object before using it,
      * classes such as Math, Arrays, System are used without instantiating the object - we would skip directly to using
